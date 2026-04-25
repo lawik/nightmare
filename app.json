@@ -6,7 +6,6 @@
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
     "ios": { "supportsTablet": false, "bundleIdentifier": "com.lawik.nightmare" },
-    "android": { "package": "com.lawik.nightmare" },
-    "plugins": ["expo-status-bar"]
+    "android": { "package": "com.lawik.nightmare" }
   }
 }

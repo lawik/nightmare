@@ -13,7 +13,7 @@ import { PRFeed } from './src/components/PRFeed';
 import { fetchPullRequests, PullRequest } from './src/services/github';
 
 const REPO_OWNER = 'lawik';
-const REPO_NAME = 'nightmare';
+const REPO_NAME = 'zayzream';
 
 export default function App() {
   const [prs, setPrs] = useState<PullRequest[] | null>(null);
